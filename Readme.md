@@ -7,7 +7,6 @@
 --Studentid_sdlc.txt
 --Create a file  containing details about important of learning DevOps engineer in software development cycle.
 
-
 #### Marisa, Tafadzwa   -101371922
 --I was able to do the following tasks: 
 --I created the repository for the assignment.
@@ -19,8 +18,6 @@
 --Create a file  containing information about COMP 3104 DevOps course.
 --Studentid_sdlc.txt
 --Create a file  containing details about important of learning DevOps engineer in software development cycle.
-
-
 
 
 #### Mukiza, Donel
