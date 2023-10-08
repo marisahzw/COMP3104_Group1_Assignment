@@ -1,0 +1,7 @@
+1. Operation
+2. Development
+3. Integration
+4. Testing
+5. Monitoring
+6. Feedback
+7. Depolyment
